@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 600e35d0fe41b5249bcea3c25708e702
+timeCreated: 1466808912
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: A
+    100002: A_sharp
+    100004: B
+    100006: C
+    100008: C_sharp
+    100010: D
+    100012: D_sharp
+    100014: E
+    100016: F
+    100018: F_sharp
+    100020: G
+    100022: G_sharp
+    100024: //RootNode
+    100026: Component_PuzzleBackground
+    400000: A
+    400002: A_sharp
+    400004: B
+    400006: C
+    400008: C_sharp
+    400010: D
+    400012: D_sharp
+    400014: E
+    400016: F
+    400018: F_sharp
+    400020: G
+    400022: G_sharp
+    400024: //RootNode
+    400026: Component_PuzzleBackground
+    2300000: A
+    2300002: A_sharp
+    2300004: B
+    2300006: C
+    2300008: C_sharp
+    2300010: D
+    2300012: D_sharp
+    2300014: E
+    2300016: F
+    2300018: F_sharp
+    2300020: G
+    2300022: G_sharp
+    2300024: Component_PuzzleBackground
+    3300000: A
+    3300002: A_sharp
+    3300004: B
+    3300006: C
+    3300008: C_sharp
+    3300010: D
+    3300012: D_sharp
+    3300014: E
+    3300016: F
+    3300018: F_sharp
+    3300020: G
+    3300022: G_sharp
+    3300024: Component_PuzzleBackground
+    4300000: B
+    4300002: E
+    4300004: A_sharp
+    4300006: A
+    4300008: G_sharp
+    4300010: G
+    4300012: F_sharp
+    4300014: F
+    4300016: D_sharp
+    4300018: D
+    4300020: C_sharp
+    4300022: C
+    4300024: Component_PuzzleBackground
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: mod.bundle
+  assetBundleVariant: 
